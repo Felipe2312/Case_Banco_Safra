@@ -1,0 +1,6 @@
+# Ignorar a pasta do ambiente virtual
+venv/
+
+# Ignorar a pasta "Gráficos"
+Gráficos/
+
